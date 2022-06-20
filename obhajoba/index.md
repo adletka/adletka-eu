@@ -8,9 +8,27 @@ date:  2022
 font-family: 'museo300'
 transition: fade
 
+BAKALÁŘSKÁ PRÁCE
+
 Nahrávky
 ========================================================
- 
+__zpěv v šepotu__
+
+- lálá, jójó
+
+- stoupnutí/klesnutí
+
+- 1 st, 2 st, 4 st, 7 st
+
+***
+__šeptané věty__
+
+,,Řekl  [[lálá]] (,) anebo [lala] ?/.``
+
+- lálá, jéjé, bába, jójó
+
+- 2 st klesnutí, 4 st stoupnutí, 7&nbsp;st stoupnutí/klesnutí
+
 
 Percepční test
 ===============
@@ -20,22 +38,18 @@ Rozeznatelnost zamýšlené melodie
 ===============
 ![](obrazky_zvuky/UspechSmer.png)
 
-Rozeznatelnost podle intervalu
+Slova z šeptaných vět
 =======
-
-zpěv v šepotu
-
-![](obrazky_zvuky/UspechVety.png)
-***
-
-
-slova z šeptaných vět
-
 ![](obrazky_zvuky/UspechZpev.png)
+
+
+Zpěv v šepotu
+=======
+![](obrazky_zvuky/UspechVety.png)
 
 Akustická analýza
 ===
-zpěv v šepotu
+__zpěv v šepotu__
 
 - F2
 
@@ -46,7 +60,7 @@ zpěv v šepotu
 - spektrální sklon
 
 ***
-šeptané věty
+__šeptané věty__
 
 - F2
 
@@ -58,6 +72,17 @@ vztah F2 s okolními formanty
 zpěv v šepotu, 7 st, stoupavý interval
 
 ![](obrazky_zvuky/zpev_up_7st_lala_FS3.png)
+[zvuk](obrazky_zvuky/up_7_lala_FS3.wav)
 
+F1
+=====
+![](obrazky_zvuky/F1srovnani.png)
 
+F2
+=====
+![](obrazky_zvuky/F2srovnani.png)
+
+F3
+=====
+![](obrazky_zvuky/F3srovnani.png)
 
