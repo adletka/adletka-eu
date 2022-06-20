@@ -49,6 +49,8 @@ Zpěv v šepotu
 
 Akustická analýza
 ===
+id: prehled
+
 __zpěv v šepotu__
 
 - F2
@@ -59,12 +61,14 @@ __zpěv v šepotu__
 
 - spektrální sklon
 
+
 ***
 __šeptané věty__
 
 - F2
 
 - spektrální těžiště filtrovaného signálu (pásmová zádrž mezi 1000 a 6300 Hz)
+
 
 
 vztah F2 s okolními formanty
@@ -74,15 +78,35 @@ zpěv v šepotu, 7 st, stoupavý interval
 ![](obrazky_zvuky/zpev_up_7st_lala_FS3.png)
 [zvuk](obrazky_zvuky/up_7_lala_FS3.wav)
 
-F1
+===
+*
+[**](https://adletka.eu/bp/)
+
+======
+zpěv v šepotu, 7 st, klesavý interval
+
+![](obrazky_zvuky/down_7_jojo_FS3.png)
+[zvuk](obrazky_zvuky/down_7_jojo_FS3.wav)
+
+F1 v šepotu a modální fonaci
 =====
 ![](obrazky_zvuky/F1srovnani.png)
 
-F2
+F2 v šepotu a modální fonaci
 =====
 ![](obrazky_zvuky/F2srovnani.png)
 
-F3
+F3 v šepotu a modální fonaci
 =====
 ![](obrazky_zvuky/F3srovnani.png)
+
+[*](https://adletka.eu/bp/)
+
+===
+*
+[**](https://adletka.eu/bp/)
+
+
+
+
 
