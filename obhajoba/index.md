@@ -23,7 +23,7 @@ __zpěv v šepotu__
 ***
 __šeptané věty__
 
-,,Řekl  [[lálá]] (,) anebo [lala] ?/.``
+,,Řekl  [lálá] anebo [lala] ?/.``
 
 - lálá, jéjé, bába, jójó
 
@@ -38,12 +38,12 @@ Rozeznatelnost zamýšlené melodie
 ===============
 ![](obrazky_zvuky/UspechSmer.png)
 
-Slova z šeptaných vět
+Zpěv v šepotu
 =======
 ![](obrazky_zvuky/UspechZpev.png)
 
 
-Zpěv v šepotu
+Slova z šeptaných vět
 =======
 ![](obrazky_zvuky/UspechVety.png)
 
@@ -71,22 +71,32 @@ __šeptané věty__
 
 
 
-vztah F2 s okolními formanty
+F2 a okolní formanty
 ====================================
 zpěv v šepotu, 7 st, stoupavý interval
 
 ![](obrazky_zvuky/zpev_up_7st_lala_FS3.png)
 [zvuk](obrazky_zvuky/up_7_lala_FS3.wav)
 
+
+===
+![](obrazky_zvuky/ZpevSklon.png)
+
 ===
 *
 [**](https://adletka.eu/bp/)
+
+Děkuji za pozornost.
+
+===
+*
 
 ======
 zpěv v šepotu, 7 st, klesavý interval
 
 ![](obrazky_zvuky/down_7_jojo_FS3.png)
 [zvuk](obrazky_zvuky/down_7_jojo_FS3.wav)
+[*](https://dood.al/pinktrombone/)
 
 F1 v šepotu a modální fonaci
 =====
