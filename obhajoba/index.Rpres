@@ -8,7 +8,6 @@ date:  2022
 font-family: 'museo300'
 transition: fade
 
-
 BAKALÁŘSKÁ PRÁCE
 
 Nahrávky
@@ -54,7 +53,7 @@ id: prehled
 
 __zpěv v šepotu__
 
-- F2
+- F2, F3
 
 - poměr F2 s okolními formanty (F2:F1, F3:F2)
 
