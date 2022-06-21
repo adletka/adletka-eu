@@ -10,6 +10,8 @@ transition: fade
 
 BAKALÁŘSKÁ PRÁCE
 
+[*](#/otazky)
+
 Nahrávky
 ========================================================
 __zpěv v šepotu__
@@ -89,6 +91,8 @@ zpěv v šepotu, 7 st, stoupavý interval
 Děkuji za pozornost.
 
 ===
+id: otazky
+
 *
 
 ======
