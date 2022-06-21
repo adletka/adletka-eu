@@ -7,6 +7,7 @@ author: Adléta Hanžlová
 date:  2022
 font-family: 'museo300'
 transition: fade
+autosize: true
 
 BAKALÁŘSKÁ PRÁCE
 
