@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/Adletka/Documents/Publii/sites/adletkaeu/preview/sitemap.xml
