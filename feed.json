@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://adletka.eu/levitate/",
+            "url": "https://adletka.eu/levitate/",
+            "title": "Levitate the ball",
+            "summary": "Levitating a ball is a fun physics experiment. But did you know you can also use it in voice training&hellip;",
+            "content_html": "<p>Levitating a ball is a fun physics experiment. But did you know you can also use it in voice training to train breath control?</p>\n<p>Our version of this device is not the only one out there (if you want to do some exploration on your own, try searching for terms such as \"levitating ball game\" or \"flowball device\"). However, our device has been perfected over many iterations, and we're very happy with the result. Unlike most, ours is not mass-produced, but printed in small batches in Prague, Czech Republic, using safe materials. Our 3D model is also freely available on <a href=\"https://www.printables.com/model/1043666-levitate-the-ball\" target=\"_blank\" rel=\"noopener\"> Printables</a>, enabling anyone in the world with the access to a 3D printer to acquire one locally. You are free to print how many you'd like without us ever knowing about it – though we would appreciate you posting a make if you can :–)</p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://adletka.eu/media/posts/12/levitateball.JPG\" alt=\"\" width=\"265\" height=\"353\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://adletka.eu/media/posts/12/responsive/levitateball-xs.JPG 300w ,https://adletka.eu/media/posts/12/responsive/levitateball-sm.JPG 480w ,https://adletka.eu/media/posts/12/responsive/levitateball-md.JPG 768w\"></figure>\n<p>Want to know more about using a flowball in voice training? Look for research articles such as <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1746809420302202\" target=\"_blank\" rel=\"noopener\"> this one.</a></p>\n<h3>Ready to start using a levitating ball device in your own practice?</h3>\n<p>Have access to a 3D printer? Great! You can <a href=\"https://www.printables.com/model/1043666-levitate-the-ball\" target=\"_blank\" rel=\"noopener\">print it yourself! </a></p>\n<p>Looking to buy one (or multiple) instead? Get in touch with <a href=\"https://fonetika.ff.cuni.cz/ustav/vyucujici/adleta-hanzlova/\" target=\"_blank\" rel=\"noopener\">Adléta. </a></p>",
+            "author": {
+                "name": "Adleta Hanzlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-14T23:49:18+02:00",
+            "date_modified": "2025-09-14T23:52:11+02:00"
+        },
+        {
             "id": "https://adletka.eu/dp/",
             "url": "https://adletka.eu/dp/",
             "title": "Diplomová práce (2024)",
