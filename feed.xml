@@ -3,12 +3,35 @@
     <title>adletka.eu</title>
     <link href="https://adletka.eu/feed.xml" rel="self" />
     <link href="https://adletka.eu" />
-    <updated>2026-02-15T18:23:40+01:00</updated>
+    <updated>2026-04-22T11:22:57+02:00</updated>
     <author>
         <name>Adleta Hanzlova</name>
     </author>
     <id>https://adletka.eu</id>
 
+    <entry>
+        <title>Experiment</title>
+        <author>
+            <name>Adleta Hanzlova</name>
+        </author>
+        <link href="https://adletka.eu/experiment/"/>
+        <id>https://adletka.eu/experiment/</id>
+
+        <updated>2026-04-22T10:37:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Experiment zkoumá vnímání zpěvního hlasu posluchači. Celkově Vám zabere přibližně 15–25 minut. The experiment investigates listeners' perception of sung music.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Experiment zkoumá vnímání zpěvního hlasu posluchači. Celkově Vám zabere přibližně 15–25 minut.</p>
+<p>The experiment investigates listeners' perception of sung music. It should take you around 15–25 minutes.</p>
+<p><a href="https://us.psytoolkit.org/c/3.6.9/survey?s=vxveF">KLIKNĚTE ZDE</a> pro zahájení české verze experimentu.</p>
+<p><a href="https://us.psytoolkit.org/c/3.6.9/survey?s=ZgpAQ">CLICK HERE</a> to access the English version of the experiment.<br>(Please choose the Czech version if you are a Czech speaker.)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Art and Science 2025</title>
         <author>
@@ -278,38 +301,6 @@
 </ul>
 <p><strong>Citace:<br></strong>Hanžlová, A. (2022). <i>Realizace a vnímání melodie v šepotu.</i> Bakalářská práce, Univerzita Karlova. Vedoucí práce Tomáš Bořil.</p>
 <p><strong>bibtex:</strong><br>@book{hanzlova_sepot_2022,<br>address = {Praha},<br>title = {Realizace a~vnímání melodie v~šepotu},<br>publisher = {Bakalářská práce, {U}niverzita {K}arlova},<br>author = {Hanžlová, Adléta},<br>year = {2022},<br>}</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>PEVoC 15 (2024)</title>
-        <author>
-            <name>Adleta Hanzlova</name>
-        </author>
-        <link href="https://adletka.eu/pevoc2024/"/>
-        <id>https://adletka.eu/pevoc2024/</id>
-
-        <updated>2025-09-14T22:10:12+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Phonetic grounding of vocal skills development courses focused on public speaking, stage speech and singing at Czech universities ☀︎ Adléta&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h5>Phonetic grounding of vocal skills development courses focused on public speaking, stage speech and singing at Czech universities</h5>
-<p><strong>☀︎ Adléta Hanžlová, Jan Volín</strong></p>
-<p><a href="https://fonetika.ff.cuni.cz/" target="_blank" rel="noopener">Institute of Phonetics, Charles University in Prague</a></p>
-<p>Phonetic knowledge can usefully inform vocal skills development. However, many voice professionals in the Czech Republic do not come from a phonetic-based education. The purpose of this study, therefore, was to examine literature used in university courses focused on vocal skills development in three fields – public speaking, stage speech and singing – as to their phonetic grounding. The aim was to establish the main themes in university courses and evaluate to which extent the methods presented are informed by phonetic knowledge in five operational domains – fundamental frequency, sound spectrum, amplitude, temporal characteristics and articulation.</p>
-<p>Twenty publications (at least 6 in each field) were chosen from university curricula. Based on recurring themes across the publications, a set of categories was identified for each of the fields examined, into which the publications’ contents were sorted. Relevant categories were then assessed in terms of awareness of the phonetic domains (above). Publications of all fields referenced phonetic domains, however, the extent to which the domains were presented varied.</p>
-<p>Public speaking publications focused mainly on elocution and orthoepy, thus drawing mainly on knowledge of the phonetic articulatory domain. Other domains were referenced in sections focused on intonation (<i>f₀</i>), loudness (amplitude), rhythm and speech tempo (t) and voice resonance (spectrum). However, the publications showed varying degrees of knowledge in these domains, some of them only acknowledging all prosodic properties jointly as “voice modulation”.</p>
-<p>Publications on stage speech paid attention to the articulatory domain along with other topics such as voice resonance and timbre (spectrum), intonation and pitch (<i>f₀</i>) speech tempo and rhythm (t) or loudness (amplitude). Interestingly, about half of the publications were prevalently focused on elocution, while others focused mainly on the other topics mentioned, one omitting the articulatory domain entirely.</p>
-<p>Singing publications addressed phonetic domains in various topics such as articulation, voice range (<i>f₀</i>), voice resonance (spectrum) or dynamics (amplitude). The temporal domain was discussed only very scarcely. Many topics and subtopics (e.g. voice registers) focused on multiple phonetic domains at once. Discussion of the spectral domain was more prevalent than in the other two fields, and most publications showed a satisfactory phonetic knowledge base.</p>
-<p><strong>Keywords:</strong> vocal skills, public speaking, singing voice, stage speech, phonetic domains</p>
-<ul>
-<li>Download the <a href="https://adletka.eu/media/files/PEVoC_Hanzlova_Volin_2024.pdf" target="_blank" rel="noopener noreferrer">poster</a>.</li>
-</ul>
-<p>The poster is based on the master's thesis <i>Vocal skills development in public speaking, stage speech and singing in the phonetic perspective. You can find out more about this thesis (in Czech) by visiting its <a href="https://adletka.eu/dp/" target="_blank" rel="noopener noreferrer">landing page</a>. </i></p>
             ]]>
         </content>
     </entry>
